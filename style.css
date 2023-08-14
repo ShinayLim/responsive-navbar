@@ -223,7 +223,7 @@ nav .search-icon {
 .content header {
   font-size: 30px;
   font-weight: 700;
-}
+}e
 
 .content .text {
   font-size: 30px;
@@ -234,17 +234,6 @@ nav .search-icon {
   position: relative;
   color: #fff;
   margin: 10px 0;
-}
-
-@media (max-width: 980px) {
-  nav .menu-icon,
-  nav .cancel-icon,
-  nav .search-icon {
-    margin: 0 20px;
-  }
-  nav form {
-    right: 30px;
-  }
 }
 
 @media (max-width: 768px) {
