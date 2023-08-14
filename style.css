@@ -223,7 +223,7 @@ nav .search-icon {
 .content header {
   font-size: 30px;
   font-weight: 700;
-}e
+}
 
 .content .text {
   font-size: 30px;
@@ -235,6 +235,7 @@ nav .search-icon {
   color: #fff;
   margin: 10px 0;
 }
+
 
 @media (max-width: 768px) {
   nav .menu-icon,
