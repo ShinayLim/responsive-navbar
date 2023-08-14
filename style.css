@@ -217,7 +217,7 @@ nav .search-icon {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 7680px) {
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon {
