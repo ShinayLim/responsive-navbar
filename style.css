@@ -231,6 +231,8 @@ nav .search-icon {
 }
 
 .space {
+  position: relative;
+  color: #fff;
   margin: 10px 0;
 }
 
