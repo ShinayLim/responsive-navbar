@@ -14,7 +14,7 @@ body {
 }
 
 nav {
-  background: #171c24;
+  background: #171c2493;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -51,7 +51,7 @@ nav form {
   display: flex;
   height: 40px;
   padding: 2px;
-  background: #1e232b;
+  background:  #171c24bb;
   min-width: 18% !important;
   border-radius: 2px;
   border: 1px solid rgba(155, 155, 155, 0.2);
